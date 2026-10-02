@@ -1,0 +1,3 @@
+Startpage: eu.startpage.com
+Searxng: priv.au
+DuckDuckGo: duckduckgo.com
