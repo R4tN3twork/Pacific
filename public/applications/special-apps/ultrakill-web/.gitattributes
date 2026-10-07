@@ -1,0 +1,4 @@
+Build/** filter=lfs diff=lfs merge=lfs -text
+ultrakill/TemplateData filter=lfs diff=lfs merge=lfs -text
+ultrakill/Build filter=lfs diff=lfs merge=lfs -text
+ultrakill/index.html filter=lfs diff=lfs merge=lfs -text
